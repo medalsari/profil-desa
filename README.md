@@ -42,13 +42,18 @@ This project is a profile website for Desa Medalsari, Kecamatan Saketi, Kabupate
 
 ## Credits
 
-- Author: Abiyyu Dhiyaul Haq - [Enotherms](https://github.com/Enotherms)
-- Contributors: Kelvin Pahotton Simamora - [kelvin77777](https://github.com/kelvin77777)
+- Author: 
+    - Abiyyu Dhiyaul Haq - [Enotherms](https://github.com/Enotherms)
+    - Kelvin Pahotton Simamora - [kelvin77777](https://github.com/kelvin77777)
+- Contributors:
+    - Kelompok KKN 13 Universitas Budi Luhur 2024
+    - Kelompok KKN 14 Universitas Budi Luhur 2024
+    - Kelompok KKN 15 Universitas Budi Luhur 2024
 
-## Credits
+
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
 
 ## Contributions
 
