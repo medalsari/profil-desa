@@ -30,11 +30,11 @@ This project is a profile website for Desa Medalsari, Kecamatan Saketi, Kabupate
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/profil-desa-medalsari.git
+    git clone https://github.com/medalsari/profil-desa.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd profil-desa-medalsari
+    cd profil-desa
     ```
 3. Open `index.html` in your preferred web browser to view the website.
 
