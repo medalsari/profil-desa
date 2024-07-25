@@ -52,3 +52,8 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements.
 
+## Preview
+![Home](home.png)
+
+[Live Preview](https://medalsari.github.io/profil-desa/)
+
