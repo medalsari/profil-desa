@@ -1,4 +1,6 @@
-# Profil Desa Medalsari Website
+# Website Desa Medalsari
+
+![Home](home.png)
 
 This project is a profile website for Desa Medalsari, Kecamatan Saketi, Kabupaten Pandeglang, Indonesia. The website includes various sections such as profile, facilities, and a profile video to provide comprehensive information about Desa Medalsari.
 
@@ -40,15 +42,24 @@ This project is a profile website for Desa Medalsari, Kecamatan Saketi, Kabupate
 
 ## Credits
 
-- Author: Abiyyu Dhiyaul Haq - [Enotherms](https://github.com/Enotherms)
-- Contributors: Kelvin Pahotton Simamora - [kelvin77777](https://github.com/kelvin77777)
+- Author: 
+    - Abiyyu Dhiyaul Haq - [Enotherms](https://github.com/Enotherms)
+    - Kelvin Pahotton Simamora - [kelvin77777](https://github.com/kelvin77777)
+- Contributors:
+    - Kelompok KKN 13 Universitas Budi Luhur 2024
+    - Kelompok KKN 14 Universitas Budi Luhur 2024
+    - Kelompok KKN 15 Universitas Budi Luhur 2024
 
-## Credits
+
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
 
 ## Contributions
 
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements.
+
+## Preview
+
+[Live Preview](https://medalsari.github.io/profil-desa/)
 
